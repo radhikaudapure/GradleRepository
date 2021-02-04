@@ -4,11 +4,6 @@ plugins {
 	id 'java'
 }
 
-jar {
-    baseName = 'com.demo.app'
-    version = '0.0.1-SNAPSHOT'
-}
-
 group = 'com.demo.app'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '11'
